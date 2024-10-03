@@ -9,4 +9,4 @@
 - **Symmetric Encryption** with AES
 - **Asymmetric Encryption** with RSA
 - **Digital Signatures** using DSA
-- Simple command-line usage for file encryption and decryption
+- Simple command-line usage for file or plain-text encryption and decryption
